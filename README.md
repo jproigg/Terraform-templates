@@ -1,4 +1,4 @@
-## terraform-GCP
+## Terraform-GCP
 VM GoogleCloud Instance running apache server.
 
 ## Terraform-AWS-VPC
