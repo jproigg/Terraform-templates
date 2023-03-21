@@ -1,4 +1,4 @@
-resource "aws_instance" "web" {
+resource "aws_instance" "webapp" {
   ami           = "ami-02f3f602d23f1659d"
   instance_type = "t2.micro"
   count = 1
