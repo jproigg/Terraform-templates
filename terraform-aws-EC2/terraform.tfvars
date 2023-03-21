@@ -2,4 +2,4 @@ ec2-tags = {
     Name = "Ec2"
   }
 
-region = "us-east-1"
+#region = "us-east-1"
