@@ -1,0 +1,10 @@
+terraform.tfvars
+.terraform
+terraform.tfstate.backup
+terraform.tfstate
+.terraform.lock.hcl
+credentials.json
+*.auto.tfvars
+.terraform.tfstate.lock.info
+.terraform/providers/registry.terraform.io/hashicorp/google/5.2.0/windows_amd64/terraform-provider-google_v5.2.0_x5.exe
+../terraform-aws-VPC-modules/
