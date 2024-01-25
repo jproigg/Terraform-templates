@@ -9,5 +9,8 @@ variable "zone" {
   default = "us-west1-a"
 }
 
+variable "gcp-sa-account" {
+  default = ""
+}
 
 
