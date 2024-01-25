@@ -8,7 +8,7 @@ resource "google_project_service" "api" {
 }
 
 
-resource "google_compute_instance" "jenkins-server" {
+resource "google_compute_instance" "jenkins-servers" {
   name         = "jenkins"
   machine_type = "e2-medium"
   boot_disk {
